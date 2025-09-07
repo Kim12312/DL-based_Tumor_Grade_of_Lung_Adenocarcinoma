@@ -18,6 +18,11 @@ python3 submit_test.py
 
 python3 submit_test_plot.py
 
+**License**
+
+The code is distributed under the Apache License 2.0. For any commercial use, please contact the corresponding author for permission.
+
 **Other information**
 
 *This code and data are test codes of our study. Any questions of this study are available on reasonable request from the corresponding author.*
+
